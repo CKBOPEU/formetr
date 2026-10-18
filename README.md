@@ -4,6 +4,8 @@ FORMETR is a Telegram fitness-planning bot built with Python, aiogram, SQLAlchem
 
 This is an independent portfolio project developed with substantial AI assistance. It is not presented as commercial client work and does not replace medical advice.
 
+**[Open the interactive web demo](https://formetr-demo.glad-hen-8100.chatgpt.site/)**
+
 ## Features
 
 - step-by-step FSM onboarding and profile reset;
