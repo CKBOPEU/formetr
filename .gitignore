@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.coverage
+htmlcov/
+formetr.db
+*.sqlite3
+bot.*.log
+.idea/
+.vscode/
